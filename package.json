@@ -1,0 +1,11 @@
+{
+  "name": "@aldinh777/rollup-cml-plugin",
+  "version": "0.1.0",
+  "description": "Rollup Plugin for CML",
+  "main": "rollup-cml-plugin.js",
+  "author": "aldinh777",
+  "license": "ISC",
+  "dependencies": {
+    "@aldinh777/cml-parser": "^0.5.1"
+  }
+}
