@@ -1,6 +1,6 @@
 {
   "name": "@aldinh777/rollup-plugin-cml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rollup Plugin for CML",
   "main": "rollup-cml-plugin.js",
   "author": "aldinh777",
