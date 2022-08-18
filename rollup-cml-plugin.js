@@ -1,7 +1,7 @@
-import { extname } from 'path';
-import { parseCML } from '@aldinh777/cml-parser';
+const { extname } = require('path');
+const { parseCML } = require('@aldinh777/cml-parser');
 
-export default function () {
+module.exports = function () {
     return {
         name: 'parse-cml',
         transform(source, id) {
