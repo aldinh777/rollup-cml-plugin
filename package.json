@@ -6,7 +6,7 @@
   "author": "aldinh777",
   "license": "ISC",
   "dependencies": {
-    "@aldinh777/cml-parser": "^0.5.2"
+    "@aldinh777/cml-parser": "^0.5.3"
   },
   "devDependencies": {
     "rollup": "^2.78.1"
